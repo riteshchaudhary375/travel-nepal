@@ -2,6 +2,8 @@
 
 A responsive travel website built with **HTML, CSS, and JavaScript**. The website provides a modern and user-friendly interface for exploring travel packages, viewing offers, reading customer testimonials, subscribing to a newsletter, and accessing travel services.
 
+**Live project:** [Travel Nepal](https://travel-nepal-l3le.onrender.com)
+
 ## Technologies Used
 
 - HTML5
