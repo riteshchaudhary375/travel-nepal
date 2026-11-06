@@ -4,7 +4,8 @@ A responsive travel website built with **HTML, CSS, and JavaScript**. The websit
 
 **Live project:** [Travel Nepal](https://travel-nepal-l3le.onrender.com)
 
-Project **document** is in document folder.
+NOTE:
+document file of this project is in document folder.
 
 ## Technologies Used
 
